@@ -1,6 +1,6 @@
 package com.example.viikko1.Domain
 
-fun addTask(list: List<Task>, task: Task): List<Task> {
+/*fun addTask(list: List<Task>, task: Task): List<Task> {
     return list + task
 }
 
@@ -20,4 +20,4 @@ fun filterByDone(list: List<Task>, done: Boolean): List<Task> {
 
 fun sortByDueDate(list: List<Task>): List<Task> {
     return list.sortedBy { it.dueDate }
-}
+}*/

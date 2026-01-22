@@ -3,23 +3,23 @@ package com.example.viikko1.Domain
 val MockTasks = listOf(
     Task(
         id = 1,
-        title = "new task",
-        description = "code",
+        title = "vie roskat",
+        description = "task",
         priority = 1,
         dueDate = "2026-01-12",
         done = true
     ),
     Task(
         id = 2,
-        title = "new task",
-        description = "code",
+        title = "käy kaupas",
+        description = "task",
         priority = 1,
         dueDate = "2026-01-11",
         done = true
     ),
     Task(
         id = 3,
-        title = "new task",
+        title = "vaihda lakanat",
         description = "task",
         priority = 2,
         dueDate = "2026-01-11",
@@ -27,7 +27,7 @@ val MockTasks = listOf(
     ),
     Task(
         id = 4,
-        title = "new task",
+        title = "osta wc paperia",
         description = "task",
         priority = 2,
         dueDate = "2026-01-13",
@@ -35,7 +35,7 @@ val MockTasks = listOf(
     ),
     Task(
         id = 5,
-        title = "new task",
+        title = "soita pomolle",
         description = "task",
         priority = 2,
         dueDate = "2026-01-08",
@@ -43,7 +43,7 @@ val MockTasks = listOf(
     ),
     Task(
         id = 6,
-        title = "new task",
+        title = "mee töihi",
         description = "Do work",
         priority = 2,
         dueDate = "2026-01-15",
