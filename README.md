@@ -9,7 +9,8 @@ Jetpack Compose käyttää reactiivista tilaa, eli UI päivittyy automaattisesti
   Tilat katoaa esimerkiksi näytön kierron yhteydessä.
 - ViewModel säilyttää tilan koko näytön elinkaaren ajan ja toimii myös useiden composablejen välillä.
 - ViewModel erottaa tilan hallinnan UI:sta, se tekee sovelluksesta vakaamman ja testattavamman.
-- Kaikki tehtävälistan toiminnot (lisää, toggle, poista, sort) kulkee ViewModelin kautta, eli UI pysyy yksinkertaisena ja reaktiivisena.
+- Kaikki tehtävälistan toiminnot (add, toggle, remove, sort) kulkee ViewModelin kautta, eli UI pysyy yksinkertaisena ja reaktiivisena.
+
 
 
 
